@@ -1,3 +1,3 @@
 #CruiseBoXx
 
-A front-end design of CruiseBoXx a website where fun places are discovered
+A front-end design with HTML & CSS of CruiseBoXx a website where fun places are discovered
